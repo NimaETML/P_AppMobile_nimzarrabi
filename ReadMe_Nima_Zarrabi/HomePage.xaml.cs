@@ -1,12 +1,14 @@
 ﻿namespace ReadMe_Nima_Zarrabi
 {
-    public partial class MainPage : ContentPage
+    public partial class HomePage : ContentPage
     {
         int count = 0;
 
-        public MainPage()
+
+        public HomePage()
         {
             InitializeComponent();
+
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
@@ -21,5 +23,4 @@
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
-
 }

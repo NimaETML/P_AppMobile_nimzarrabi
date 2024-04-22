@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReadMe_Nima_Zarrabi.HomePage">
+
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25">
+            <Image
+            Source="readme_logo_text.png"
+            HeightRequest="170"
+            Aspect="AspectFit"
+            SemanticProperties.Description="Slay logo i made" />
+
+            <Label
+            Text="Flyout page 1"
+            Style="{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+            Text="this is the FIRST Flyout Page"
+            Style="{StaticResource SubHeadline}"
+            SemanticProperties.HeadingLevel="Level2"
+            SemanticProperties.Description="this is the layout page, it has a cool image" />
+
+
+
+            <Grid Grid.Row="1" BackgroundColor="DarkRed">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="6"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="6"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="6"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="6"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="6"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Border Background="Cyan" />
+                <BoxView Color="Green" />
+                <Label Grid.Column="0"
+           Text="0,0"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                
+                <BoxView Grid.Column="0"
+             Color="Black" />
+                <Label Grid.Column="0"
+           Text="0,0"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                <BoxView Grid.Column="2"
+             Color="Teal" />
+                <Label Grid.Column="2"
+           Text="0,2"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+                    
+               <BoxView Grid.Column="4"
+             Color="Black" />
+                <Label Grid.Column="4"
+           Text="0,4"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                <BoxView Grid.Column="6"
+             Color="Teal" />
+                <Label Grid.Column="6"
+           Text="0,6"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+                
+                <BoxView Grid.Column="8"
+             Color="Black" />
+                <Label Grid.Column="8"
+           Text="0,8"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                <BoxView Grid.Column="10"
+             Color="Teal" />
+                <Label Grid.Column="10"
+           Text="0,10"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                <BoxView Grid.Column="12"
+             Color="Black" />
+                <Label Grid.Column="12"
+           Text="0,12"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+                <BoxView Grid.Column="14"
+             Color="Teal" />
+                <Label Grid.Column="14"
+           Text="0,14"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+                
+                <BoxView Grid.Column="16"
+             Color="Black" />
+                <Label Grid.Column="16"
+           Text="0,16"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+
+            </Grid>
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+
+
+            <BoxView Color="CornflowerBlue"
+         CornerRadius="10"
+         WidthRequest="160"
+         HeightRequest="30"
+         VerticalOptions="Center"
+         HorizontalOptions="Center" />
+
+            <StackLayout Margin="20">
+                <Label Text="Primary colors" />
+                <BoxView Color="Red"
+             HeightRequest="30" />
+                <BoxView Color="Yellow"
+             HeightRequest="30" />
+                <BoxView Color="Blue"
+             HeightRequest="30" />
+                <Label Text="Secondary colors" />
+                <BoxView Color="Green"
+             HeightRequest="30" />
+                <BoxView Color="Orange"
+             HeightRequest="30" />
+                <BoxView Color="Purple"
+             HeightRequest="30" />
+            </StackLayout>
+
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>
+    
