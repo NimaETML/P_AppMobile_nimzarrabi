@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T11:49:23.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:58:22.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T11:58:19.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:56:15.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T11:56:10.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:54:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMe_Nima_Zarrabi.csproj",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadMe_Nima_Zarrabi.csproj",
+              "RelativeDocumentMoniker": "ReadMe_Nima_Zarrabi.csproj",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadMe_Nima_Zarrabi.csproj",
+              "RelativeToolTip": "ReadMe_Nima_Zarrabi.csproj",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T11:54:09.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
