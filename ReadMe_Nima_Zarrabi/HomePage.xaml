@@ -4,9 +4,13 @@
              x:Class="ReadMe_Nima_Zarrabi.HomePage">
 
     <ScrollView>
+        
         <VerticalStackLayout
+            
+            
         Padding="30,0"
-        Spacing="25">
+        Spacing="21">
+            
             <Image
             Source="readme_logo_text.png"
             HeightRequest="170"
@@ -24,9 +28,22 @@
             SemanticProperties.HeadingLevel="Level2"
             SemanticProperties.Description="this is the layout page, it has a cool image" />
 
+            <Button
+               x:Name="CounterBtn"
+               Text="Click me" 
+               SemanticProperties.Hint="Counts the number of times you click"
+               Clicked="OnCounterClicked"
+               HorizontalOptions="Fill" />
 
 
-            <Grid Grid.Row="1" BackgroundColor="DarkRed">
+            <BoxView Color="CornflowerBlue"
+        CornerRadius="10"
+        WidthRequest="160"
+        HeightRequest="30"
+        VerticalOptions="Center"
+        HorizontalOptions="Center" />
+
+            <Grid Grid.Row="1" BackgroundColor="#512BD4" HorizontalOptions="EndAndExpand">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="6"/>
                     <ColumnDefinition Width="10"/>
@@ -49,6 +66,7 @@
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto" />
 
                 </Grid.RowDefinitions>
                 <Border Background="Cyan" />
@@ -58,35 +76,24 @@
            HorizontalOptions="Center"
            VerticalOptions="Center" />
 
-                
                 <BoxView Grid.Column="0"
-             Color="Black" />
+            Color="Black" />
                 <Label Grid.Column="0"
-           Text="0,0"
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
+          Text="0,0"
+          HorizontalOptions="Center"
+          VerticalOptions="Center" />
 
-                <BoxView Grid.Column="2"
-             Color="Teal" />
-                <Label Grid.Column="2"
-           Text="0,2"
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
-                    
-               <BoxView Grid.Column="4"
+                <ImageButton x:Name="homeButton" Grid.Column="2" Clicked="Button_Clicked" Source="home_icon.png" Aspect="AspectFit"/>
+
+                <BoxView Grid.Column="4"
              Color="Black" />
                 <Label Grid.Column="4"
            Text="0,4"
            HorizontalOptions="Center"
            VerticalOptions="Center" />
 
-                <BoxView Grid.Column="6"
-             Color="Teal" />
-                <Label Grid.Column="6"
-           Text="0,6"
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
-                
+                <ImageButton x:Name="readButton" Grid.Column="6" Clicked="Button_Clicked" Source="read_icon.png" Aspect="AspectFit"/>
+
                 <BoxView Grid.Column="8"
              Color="Black" />
                 <Label Grid.Column="8"
@@ -94,12 +101,7 @@
            HorizontalOptions="Center"
            VerticalOptions="Center" />
 
-                <BoxView Grid.Column="10"
-             Color="Teal" />
-                <Label Grid.Column="10"
-           Text="0,10"
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
+                <ImageButton x:Name="searchButton" Grid.Column="10" Clicked="Button_Clicked" Source="search_icon.png" Aspect="AspectFit"/>
 
                 <BoxView Grid.Column="12"
              Color="Black" />
@@ -108,55 +110,15 @@
            HorizontalOptions="Center"
            VerticalOptions="Center" />
 
-                <BoxView Grid.Column="14"
-             Color="Teal" />
-                <Label Grid.Column="14"
-           Text="0,14"
-           HorizontalOptions="Center"
-           VerticalOptions="Center" />
-                
+                <ImageButton x:Name="userButton" Grid.Column="14" Clicked="Button_Clicked" Source="user_icon.png" Aspect="AspectFit"/>
+
                 <BoxView Grid.Column="16"
              Color="Black" />
                 <Label Grid.Column="16"
            Text="0,16"
            HorizontalOptions="Center"
            VerticalOptions="Center" />
-
-
             </Grid>
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me" 
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
-
-
-            <BoxView Color="CornflowerBlue"
-         CornerRadius="10"
-         WidthRequest="160"
-         HeightRequest="30"
-         VerticalOptions="Center"
-         HorizontalOptions="Center" />
-
-            <StackLayout Margin="20">
-                <Label Text="Primary colors" />
-                <BoxView Color="Red"
-             HeightRequest="30" />
-                <BoxView Color="Yellow"
-             HeightRequest="30" />
-                <BoxView Color="Blue"
-             HeightRequest="30" />
-                <Label Text="Secondary colors" />
-                <BoxView Color="Green"
-             HeightRequest="30" />
-                <BoxView Color="Orange"
-             HeightRequest="30" />
-                <BoxView Color="Purple"
-             HeightRequest="30" />
-            </StackLayout>
-
 
         </VerticalStackLayout>
 

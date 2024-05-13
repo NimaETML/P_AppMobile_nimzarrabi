@@ -11,6 +11,11 @@
 
         }
 
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            CounterBtn.Text = $" 5935354546266 ";
+        }
+
         private void OnCounterClicked(object sender, EventArgs e)
         {
             count++;

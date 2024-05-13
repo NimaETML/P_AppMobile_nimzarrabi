@@ -29,6 +29,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+
+api/node_modules
+
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 

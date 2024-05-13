@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\viewmodels\\mvvmreadpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:viewmodels\\mvvmreadpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,28 +31,36 @@
       "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\readpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:readpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\readpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:readpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:readme_nima_zarrabi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|c:\\users\\pu78ifh\\desktop\\appmobile\\p_appmobile_nimzarrabi\\readme_nima_zarrabi\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26378810-3B66-4EF7-B17F-852238FBAA34}|ReadMe_Nima_Zarrabi.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,33 +74,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml.cs",
-              "RelativeToolTip": "HomePage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApiPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ApiPage.xaml.cs",
+              "RelativeDocumentMoniker": "ApiPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ApiPage.xaml.cs",
+              "RelativeToolTip": "ApiPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wEsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:55:58.361Z",
+              "WhenOpened": "2024-05-13T12:45:14.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApiPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ApiPage.xaml",
+              "RelativeDocumentMoniker": "ApiPage.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ApiPage.xaml",
+              "RelativeToolTip": "ApiPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T12:45:11.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomePage.xaml",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml",
               "RelativeDocumentMoniker": "HomePage.xaml",
               "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml",
               "RelativeToolTip": "HomePage.xaml",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAAwGIAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-17T11:49:23.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppShell.xaml.cs",
@@ -80,25 +121,24 @@
               "RelativeToolTip": "AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:58:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:58:22.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
               "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-15T11:58:19.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -116,13 +156,14 @@
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\App.xaml",
               "RelativeToolTip": "App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-15T11:56:10.118Z"
+              "WhenOpened": "2024-04-15T11:56:10.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -134,15 +175,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "ReadPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadPage.xaml",
+              "RelativeDocumentMoniker": "ReadPage.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadPage.xaml",
+              "RelativeToolTip": "ReadPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T12:43:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MvvmReadPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ViewModels\\MvvmReadPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MvvmReadPageViewModel.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ViewModels\\MvvmReadPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MvvmReadPageViewModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:34:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadPage.xaml.cs",
+              "RelativeDocumentMoniker": "ReadPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadPage.xaml.cs",
+              "RelativeToolTip": "ReadPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:43:37.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\HomePage.xaml.cs",
+              "RelativeToolTip": "HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:55:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ReadMe_Nima_Zarrabi.csproj",
               "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadMe_Nima_Zarrabi.csproj",
               "RelativeDocumentMoniker": "ReadMe_Nima_Zarrabi.csproj",
               "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\ReadMe_Nima_Zarrabi.csproj",
               "RelativeToolTip": "ReadMe_Nima_Zarrabi.csproj",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAEBVwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-15T11:54:09.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T11:45:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\pu78ifh\\Desktop\\AppMobile\\P_AppMobile_nimzarrabi\\ReadMe_Nima_Zarrabi\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAADAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T12:06:36.417Z"
             }
           ]
         }
