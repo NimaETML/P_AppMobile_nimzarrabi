@@ -27,7 +27,8 @@ public partial class MvvmReadPageViewModel : ObservableObject
     [RelayCommand]
     public void ReadBlob()
     {
-        Book = EpubReader.ReadBook(BookPath);
+        //Stream bookStream
+        Book = EpubReader.ReadBook(bookPath);
         GetBlobText(Book);
     }
 
