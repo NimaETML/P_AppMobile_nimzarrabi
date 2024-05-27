@@ -10,6 +10,8 @@ using System.IO.Compression;
 using System.Xml;
 using VersOne.Epub;
 using System.Text;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography.X509Certificates;
 //using static Android.Provider.MediaStore;
 
 namespace ReadMe_Nima_Zarrabi;
@@ -23,6 +25,7 @@ public partial class ApiPage : ContentPage
     public static string ReadMeUrl = $"{BaseAddress}/api/epub/1";
 
     public string bookFullText;
+
 
     public ApiPage()
 	{
@@ -42,8 +45,9 @@ public partial class ApiPage : ContentPage
 				//Open epub ZIP
 				ZipArchive archive = new ZipArchive(content.ReadAsStream());
 				var coverEntry = archive.GetEntry("OEBPS/Images/cover.png");
-				var coverStream = coverEntry.Open();
+                var page1Entry = archive.GetEntry("OEBPS/page1.xhtml");
 
+                var coverStream = coverEntry.Open();
 
 
                 EpubBook Book;
@@ -55,7 +59,7 @@ public partial class ApiPage : ContentPage
 				var bookTitle = "not found";
                 var bookLanguage = "not found";
 				var contentString = new StreamReader(archive.GetEntry("OEBPS/content.opf").Open()).ReadToEnd();
-
+                var fullBook = "not found";
 
 
                 //Book = EpubReader.ReadBook(ReadMeUrl);
@@ -64,7 +68,7 @@ public partial class ApiPage : ContentPage
 
                 if (useXml)
 				{
-                    /*
+                    
                     #region XML version
                     //load meta-data from xml
                     var xmlDoc = new XmlDocument();
@@ -75,7 +79,7 @@ public partial class ApiPage : ContentPage
 
 					bookTitle = titleNode != null ? titleNode.InnerText : "not found with xml";
 					#endregion
-                    */
+                    
                 }
 				else
 				{
@@ -85,19 +89,28 @@ public partial class ApiPage : ContentPage
                     int BTstart = contentString.IndexOf("<dc:title>") + 10;
                     int BTend = contentString.IndexOf("</dc:title>");
 
-                    bookTitle = (BTstart != -1 && BTend != -1) ? contentString.Substring(BTstart, BTend - BTstart) : "Title node not found.";
+                    bookTitle = (BTstart != -1 && BTend != -1) ? contentString.Substring(BTstart, BTend - BTstart) : "Title not found.";
 
                     // Language
-                    int FBstart = contentString.IndexOf("<dc:language>") + 10;
-                    int FBend = contentString.IndexOf("</dc:language>");
+                    int BLstart = contentString.IndexOf("<dc:language>") + 10;
+                    int BLend = contentString.IndexOf("</dc:language>");
 
-                    bookLanguage = (FBstart != -1 && FBend != -1) ? contentString.Substring(FBstart, FBend - FBstart) : "Language node not found.";
+                    bookLanguage = (BLstart != -1 && BLend != -1) ? contentString.Substring(BLstart, BLend - BLstart) : "Language not found.";
+
+                    int FBstart = contentString.IndexOf("page1.xhtml");
+                    int FBend = contentString.IndexOf("page2.xhtml");
+
+                    fullBook = (FBstart != -1 && FBend != -1) ? contentString.Substring(FBstart, FBend) : "chapter 1 not found.";
 
                     // FUll book content left to do
                     #endregion
                 }
+
+                // Y'a rien qui marche avec ces chapitres
                 title.Text=bookTitle;
-                bookText.Text=bookLanguage;
+                Language.Text = bookLanguage;
+                bookText.Text= fullBook;
+                page1.Text = Convert.ToString(page1Entry);
 
             }
             else

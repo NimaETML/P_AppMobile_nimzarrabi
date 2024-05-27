@@ -16,7 +16,7 @@ public partial class MvvmReadPageViewModel : ObservableObject
     public EpubBook? book;
 
     [ObservableProperty]
-    public string bookFullText = "slay";
+    public string bookFullText = "placeholder";
 
     [ObservableProperty]
     public string bookPath = "books/norris-pit.epub";

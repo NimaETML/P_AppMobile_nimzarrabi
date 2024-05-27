@@ -18,7 +18,11 @@
 
         <Label x:Name="title" Text="book title"></Label>
 
+        <Label x:Name="Language" Text="book language"></Label>
+
         <Label x:Name="bookText" Text="book content"></Label>
+
+        <Label x:Name="page1" Text="book content"></Label>
 
         <Image x:Name="cover" WidthRequest="150" HeightRequest="150" Source="book.png" />
     </VerticalStackLayout>
